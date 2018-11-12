@@ -1,0 +1,28 @@
+h1, h2, h3, h4, h5, h6, p, body {
+    font-family: "Avenir";
+}
+h4 {
+	text-align: center;
+	font-size: 2.28rem;
+}
+p {
+    font-size: 18px;
+}
+nav {
+	background-color: white;
+}
+.navimg {
+	margin-left: 10px;
+	margin-top: 20px;
+}
+.navimg2 {
+	margin-right: 10px;
+	margin-top: 20px;
+}
+blockquote {
+	border-left-color: #cddef2;
+}
+.img-subtext {
+	font-size: 14px;
+	color: grey;
+}
